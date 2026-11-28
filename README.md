@@ -35,3 +35,8 @@ This is an educational exploratory data-analysis project. Observed relationships
 ## Author
 Varsha Shree  
 Final-year B.Tech Biotechnology student
+
+
+## Tableau Dashboard
+
+![EGFR Drug Discovery Analytics Dashboard](Tableau_Dashboard.png)
